@@ -1,0 +1,5 @@
+Este será mi primer fichero de prueba
+Esta será la segunda linea del fichero
+Aqui se acaba el fichero
+
+Esta es la linea que hemos a�adido ahora
